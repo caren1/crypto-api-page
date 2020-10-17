@@ -36,7 +36,7 @@ function App() {
         </form>
       </div>
       {filteredCoins.map((coin) => (
-        <Coin key={coin.id} name={coin.name} image={coin.image} symbol={coin.symbol} price={coin.current_price} volume={coin.market_cap}/>
+        <Coin key={coin.id} name={coin.name} image={coin.image} symbol={coin.symbol} price={coin.current_price} marketCap={coin.market_cap} priceChange={coin.price_change_percentage_24h} volume={coin.total_volume}/>
         ))}
     </div>
   );
