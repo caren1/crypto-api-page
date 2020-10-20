@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/crypto-api-page/static/css/main.7771a5e3.chunk.css",
+    "main.js": "/crypto-api-page/static/js/main.d4ec388d.chunk.js",
+    "main.js.map": "/crypto-api-page/static/js/main.d4ec388d.chunk.js.map",
+    "runtime-main.js": "/crypto-api-page/static/js/runtime-main.bcdd8832.js",
+    "runtime-main.js.map": "/crypto-api-page/static/js/runtime-main.bcdd8832.js.map",
+    "static/js/2.9eff60c2.chunk.js": "/crypto-api-page/static/js/2.9eff60c2.chunk.js",
+    "static/js/2.9eff60c2.chunk.js.map": "/crypto-api-page/static/js/2.9eff60c2.chunk.js.map",
+    "index.html": "/crypto-api-page/index.html",
+    "precache-manifest.7d7e21b7cfbb4ce626ea1479a50a92dd.js": "/crypto-api-page/precache-manifest.7d7e21b7cfbb4ce626ea1479a50a92dd.js",
+    "service-worker.js": "/crypto-api-page/service-worker.js",
+    "static/css/main.7771a5e3.chunk.css.map": "/crypto-api-page/static/css/main.7771a5e3.chunk.css.map",
+    "static/js/2.9eff60c2.chunk.js.LICENSE.txt": "/crypto-api-page/static/js/2.9eff60c2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcdd8832.js",
+    "static/js/2.9eff60c2.chunk.js",
+    "static/css/main.7771a5e3.chunk.css",
+    "static/js/main.d4ec388d.chunk.js"
+  ]
+}
